@@ -1,6 +1,6 @@
 // components/tabs/index.js
 Component({
-  externalClasses: ['l-class-header', 'l-class-active', 'l-class-inactive','l-class-line','l-class-tabimage'],
+  externalClasses: ['l-class-header', 'l-class-active', 'l-class-inactive','l-class-line','l-class-tabimage','l-class-content'],
   relations: {
     '../tabpanel/index': {
       type: 'child',

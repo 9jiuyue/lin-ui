@@ -79,10 +79,6 @@
 - 标签栏位置在左边或右边时，默认宽度为`160rpx`,高度等分,开启`scrollable`时，最小高度为`80rpx`;
 - 可通过`l-class-header`、`l-class-active`、`l-class-inactive`覆盖默认标签栏样式。
 
-### 混合标签页
-
-除了单一使用的标签页外，还可以使用横竖混合的标签页，使用方式是将原来的`<l-tabs></l-tabs>`替换为`<combined-tabs></combined-tabs>`
-
 
 ### 标签页属性 (Tabs Attributes）
 
